@@ -1,0 +1,259 @@
+﻿Eastern Light Mace	khuzait_mace_1_t2
+Knobbed Club	battania_mace_1_t2
+Highland Spiked Club	battania_mace_2_t2
+Southern Heavy Mace	aserai_mace_3_t3
+Light Mace	light_mace_t3
+Steel Shestopyor	steel_mace_t3
+Morningstar	morningstar_mace_t3
+Fullered Western Mace	vlandia_mace_2_t4
+Imperial Light Mace	empire_mace_2_t4
+Calradic Mace	empire_mace_3_t4
+Spiralled Mace	aserai_mace_4_t4
+Eastern Heavy Mace	khuzait_mace_2_t4
+Eastern Fine Steel Mace	khuzait_mace_3_t4
+Light Shishpar Mace	shishpar_mace_t4
+Eastern Steel Mace	eastern_steel_mace_t4
+Pernach	vlandia_mace_3_t5
+Light Royal Mace	empire_mace_4_t5
+Cataphracts Mace	empire_mace_5_t5
+Eastern Flanged Mace	khuzait_mace_4_t5
+Hunting Bow	hunting_bow
+Mountain Hunting Bow	mountain_hunting_bow
+Steppe Bow	steppe_bow
+Longbow	glen_ranger_bow
+Ranger Bow	highland_ranger_bow
+Simple Short Bow	composite_bow
+Steppe Recurve Bow	composite_steppe_bow
+Heavy Recurve Bow	steppe_heavy_bow
+Nordic Shortbow	nordic_shortbow
+Western Longbow	lowland_longbow
+Southern Tribesman's Bow	tribal_bow
+Steppe War Bow	steppe_war_bow
+Woodland Yew Bow	woodland_yew_bow
+Woodland Longbow	woodland_longbow
+Southern Strong Longbow	longbow_recurve_desert_bow
+Nomad Bow	nomad_bow
+Western Yew Bow	lowland_yew_bow
+Noble Bow	noble_bow
+Noble Long Bow	noble_long_bow
+Light Crossbow	crossbow_a
+Heavy Crossbow	crossbow_b
+Arbalest	crossbow_c
+Crossbow	crossbow_e
+Hickory Crossbow	crossbow_d
+Fine Crossbow	crossbow_g
+Bound Crossbow	crossbow_f
+Simple Javelin	western_javelin_1_t2
+Fish Harpoon	northern_javelin_1_t2
+Eastern Jagged Javelin	eastern_javelin_1_t2
+Western Javelin	western_javelin_2_t3
+Harpoon	generic_javelin_1_t3
+Woodland Javelin	northern_javelin_2_t3
+Eastern Javelin	eastern_javelin_2_t3
+Hooked Javelin	western_javelin_3_t4
+Broad Blade Javelin	northern_javelin_3_t4
+Jereed	eastern_javelin_3_t4
+Highland Throwing Axe	highland_throwing_axe_1_t2
+Southern Throwing Axe	southern_throwing_axe_1_t4
+Northern Throwing Axe	northern_throwing_axe_1_t1
+Highland Throwing Axe	woodland_throwing_axe_1_t1
+Franceska	western_throwing_axe_1_t1
+Western Throwing Knife	lowland_throwing_knife
+Leafblade Throwing Knife	leafblade_throwing_knife
+Southern Throwing Daggers	desert_throwing_knife
+Highland Throwing Dagger	celtic_throwing_dagger
+Imperial Broad Bladed Throwing Knives	empire_throwingknife_t5
+Stone	throwing_stone
+Ballista Arrows	ballista_projectile
+Ballista Arrows	ballista_projectile_burning
+Boulder	boulder
+Fire Pot	pot
+Western Arrows	vlandic_arrows
+Imperial Arrows	arrow_emp_1_a
+Piercing Arrows	piercing_arrows
+Stacked Bodkin Arrows	bodkin_arrows_a
+Bodkin Arrows	bodkin_arrows_b
+Light Bodkin Arrows	bodkin_arrows_c
+Steppe Arrows	steppe_arrows
+Stacked Steppe Arrows	heavy_steppe_arrows
+Barbed Arrows	barbed_arrows
+Range Arrows	range_arrows
+Tournament Arrows	tournament_arrows
+Arrows	default_arrows
+Tournament Bolts	tournament_bolts
+Bolt	bolt_a
+Bolt	bolt_b
+Bolt	bolt_c
+Bolt	bolt_d
+Bolt	bolt_e
+Blunt Arrows	blunt_arrows
+Heavy Round Shield	heavy_round_shield
+Large Round Shield	leather_round_shield
+Reinforced Large Round Shield	strapped_round_shield
+Wooden Oval Shield	oval_shield
+Reinforced Southern Round Shield	desert_round_shield
+Southern Round Shield	bound_desert_round_shield
+Curved Round Shield	curved_round_shield
+Iron Round Shield	studded_round_shield
+Steel Round Shield	steel_round_shield
+Wooden Adarga	bound_adarga
+Large Adarga	large_adarga
+Makeshift Kite Shield	old_kite_shield
+Worn Kite Shield	worn_kite_shield
+Leather Bound Kite Shield	leather_bound_kite_shield
+Reinforced Kite Shield	reinforced_kite_shield
+Reinforced Oaken Kite Shield	stronger_reinforced_kite_shield
+Pavise Shield	pavise_shield
+Wooden Kite Shield	old_horsemans_kite_shield
+Makeshift Horsemans Kite Shield	worn_horsemans_kite_shield
+Cavalry Kite Shield	bound_horsemans_kite_shield
+Reinforced Cavalry Small Shield	reinforced_horsemans_kite_shield
+Battered Horseman's Kite Shield	battered_horsemans_kite_shield
+Light Cavalry Kite Shield	light_horsemans_kite_shield
+Reinforced Cavalry Kite Shield	heavy_horsemans_kite_shield
+Battered Kite Shield	battered_kite_shield
+Reinforced Flat Kite Shield	reinforced_flat_kite_shield
+Studded Bound Kite Shield	studded_bound_kite_shield
+Fortified Kite Shield	fortified_kite_shield
+Small Cavalry Heater Shield	horsemans_heater_shield
+Small Heater Shield	small_heater_shield
+Knights Shield	jousting_shield
+Heater Shield With Cutout	heater_shield_with_cutout
+Flat Heater Shield	flat_heater_shield
+Heavy Heater Shield	heavy_heater_shield
+Small Flat Heater Shield	small_flat_heater_shield
+Wide Heater Shield	wide_heater_shield
+Bracketed Heater Shield	bracketed_heater_shield
+Tall Heater Shield	tall_heater_shield
+Adarga	adarga
+Studded Adarga	studded_adarga
+Ornate Adarga	ornate_adarga
+Desert Oval Shield	desert_oval_shield
+Reinforced Oval Shield	southern_oval_shield
+Decorated Oval Shield	emirs_oval_shield
+Decorated Round Shield	highland_scouts_shield
+Highland Round Shield	highland_riders_shield
+Tribal Steppe Shield	tribal_steppe_shield
+Round Steppe Shield	decorated_steppe_shield
+Decorated Eastern Shield	noyans_shield
+Eastern Cavalry Shield	steppe_guardian_shield
+Wicker Square Shield	eastern_wicker_shield
+Reinforced Wicker Square Shield	stronger_eastern_wicker_shield
+Wicker Shield	footmans_wicker_shield
+Reinforced Wicker Shield	stronger_footmans_wicker_shield
+Northern Cavalry Kite Shield	northern_scouts_shield
+Reinforced Cavalry Shield	northern_horsemans_shield
+Norse Round Shield	viking_round_shield
+Northern Round Shield	northern_round_shield
+Western Riders Kite Shield	western_riders_kite_shield
+Reinforced Ironrimmed Kite Shield	ironrim_riders_kite_shield
+Knights Kite Shield	chivalric_kite_shield
+Kite Shield	western_kite_shield
+Ironrimed Kite Shield	ironrim_kite_shield
+Desert Horse	aserai_horse_tournament
+Battanian Pony	battania_horse_tournament
+Midlands Palfrey	empire_horse_tournament
+Steppe Horse	khuzait_horse_tournament
+Sturgian Trotter	sturgia_horse_tournament
+Saddle Horse	vlandia_horse_tournament
+Camel	camel_tournament
+Sumpter Horse	sumpter_horse
+Old Work Horse	old_horse
+Mule	mule
+Mule	mule_unmountable
+Pack Camel	pack_camel
+Pack Camel	pack_camel_unmountable
+Desert Horse	aserai_horse
+Battanian Pony	battania_horse
+Midlands Palfrey	empire_horse
+Steppe Horse	khuzait_horse
+Sturgian Trotter	sturgia_horse
+Saddle Horse	vlandia_horse
+Camel	camel
+Aserai Horse	t2_aserai_horse
+Battanian Warmount	t2_battania_horse
+Imperial Charger	t2_empire_horse
+Steppe Warhorse	t2_khuzait_horse
+Sturgian Hunter	t2_sturgia_horse
+Vlandian Courser	t2_vlandia_horse
+War Camel	war_camel
+Hunter	hunter
+Charger	charger
+Nahasawi	noble_horse_southern
+Cossian	noble_horse_imperial
+Asaligat	noble_horse_eastern
+Tyal Horse	noble_horse_northern
+Destrier	noble_horse_western
+Husnphree	special_camel
+Battanian Thoroughbred	noble_horse_battania
+Pureblood	noble_horse
+Storm Charger	storm_charger
+War Horse	war_horse
+Steppe War Horse	steppe_war_horse
+Desert War Horse	desert_war_horse
+Rugged Desert Saddle	bandit_saddle_desert
+Rugged Saddle	bandit_saddle_steppe
+Rugged Highland Saddle	bandit_saddle_highland
+Light Harness	light_harness
+Halfchain Barding	halfchain_barding
+Chain Barding	chain_barding
+Chain Horse Harness	chain_horse_harness
+Striped Leather Harness	stripped_leather_harness
+Imperial Riding Harness	imperial_riding_harness
+Half Scale Barding	half_scale_barding
+Imperial Scale Barding	imperial_scale_barding
+Studded Steppe Barding	studded_steppe_barding
+Desert Cloth Harness	desert_cloth_harness
+Southern Common Harness	aseran_village_harness
+Half Mail And Plate Barding	half_mail_and_plate_barding
+Mail And Plate Barding	mail_and_plate_barding
+Steppe Harness	steppe_harness
+Steppe Fur Harness	steppe_fur_harness
+Steppe Half Barding	steppe_half_barding
+Northern Light Harness	northern_light_harness
+Northern Noble Harness	northern_noble_harness
+Northern Ring Barding	northern_ring_barding
+Battania Horse Harness	battania_horse_harness
+Highland Half Scaled Harness	battania_horse_harness_halfscaled
+Highland Scaled Harness	battania_horse_harness_scaled
+Mule Harness with Pack	mule_load_a
+Mule Harness with Baskets	mule_load_b
+Mule Harness with Bags	mule_load_c
+Camel Saddle	camel_saddle
+Camel Saddle with Heavy Load	camel_saddle_a
+Camel Saddle with Light Load	camel_saddle_b
+Wool	wool
+Silver Ore	silver
+Jewelry	jewelry
+Salt	salt
+Spice	spice
+Cotton	cotton
+Flax	flax
+Clay	clay
+Pottery	pottery
+Linen	linen
+Leather	leather
+Velvet	velvet
+Cheese	cheese
+Butter	butter
+Fish	fish
+Grapes	grape
+Dates	date_fruit
+Olives	olives
+Beer	beer
+Wine	wine
+Oil	oil
+Fur	fur
+Stolen Goods	stolen_goods
+Triangle Banner	banner_mid
+Big Banner	banner_big
+Campaign Banner Small	campaign_banner_small
+Bo staff	bo_staff
+Cat	cat
+Dog	dog
+Sheep	sheep
+Cow	cow
+Hog	hog
+Goose	goose
+Chicken	chicken
+Execution Axe	execution_axe
